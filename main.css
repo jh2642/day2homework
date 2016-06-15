@@ -38,4 +38,5 @@ select {
 button:hover {
   background: green;
   color:black;
+  transition: 1s;
 }
